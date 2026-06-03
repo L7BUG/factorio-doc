@@ -48,7 +48,7 @@
 
 | Mod | 用途 |
 |-----|------|
-| **Blueprint Sandboxes** | 在独立沙盒空间测试蓝图，不修改真实世界 |
+| **Blueprint Sandboxes** | 在独立沙盒空间测试蓝图，不修改真实世界 → [详细介绍](./Blueprint-Sandboxes详细介绍.md) |
 | **Picker Extended** | 鼠标悬停看信号值，快速复制粘贴机器设置，蓝图调试神器 |
 | **Ghost on Water** | 允许在水上放虚影，蓝图不再被水面打断 |
 | **Rail Signal Planner** | 沿长铁轨自动放置信号灯，一键完成 |
@@ -60,7 +60,7 @@
 | Mod | 下载量 | 用途 |
 |-----|--------|------|
 | **Rail Signal Planner** | 经典 | 沿长铁轨自动放置信号灯，一键完成 |
-| **Cybersyn / LTN** | 经典 | 智能火车调度系统。火车按需求自动分配任务，无需手动调度 |
+| **Cybersyn / LTN** | 经典 | 智能火车调度系统 → [详细介绍](./LTN与Cybersyn智能火车调度详解.md) |
 | **AAI Containers & Warehouses** | 59.9 万 | 2×2 保险箱、4×4 仓库、6×6 大型仓库，还有物流网络版本 |
 | **AAI Signal Transmission** | 57.2 万 | 跨星球/跨空间平台无线传输电路信号。频道制，无距离限制，零延迟 |
 
