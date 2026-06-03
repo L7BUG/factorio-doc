@@ -12,6 +12,7 @@ Factorio 游戏攻略、Mod 推荐、机制详解与产线设计参考文档。
 | [LTN 与 Cybersyn 智能火车调度详解](./LTN与Cybersyn智能火车调度详解.md) | 两个火车物流 Mod 的机制对比、选型建议与使用示例 |
 | [Blueprint Sandboxes 详细介绍](./Blueprint-Sandboxes详细介绍.md) | 游戏内蓝图测试沙盒 Mod 的完整指南 |
 | [Raynquist 均分器合集翻译](./factoriobin-post-cgn0od-翻译.md) | Fall 2025 均分器蓝图合集的中英文对照 |
+| [激光塔石墙防线设计](./激光塔石墙防线设计.md) | 激光塔 + 石墙 + 龙牙阵的间距、厚度与布局指南 |
 
 ## 版本
 
