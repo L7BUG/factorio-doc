@@ -15,6 +15,7 @@ Factorio 游戏攻略、Mod 推荐、机制详解与产线设计参考文档。
 | [激光塔石墙防线设计](./激光塔石墙防线设计.md) | 激光塔 + 石墙 + 龙牙阵的间距、厚度与布局指南 |
 | [降低污染完全指南](./降低污染完全指南.md) | 从源头砍污染的分步策略，矿机→电炉→清洁电力→清巢 |
 | [Brian's Trains 蓝图合集详解](./Brians-Trains蓝图合集详解.md) | 最完整的火车蓝图合集，支持原版/LTN/Cybersyn，1~8厢 |
+| [Space Age 四大外星球详解](./Space-Age四大外星球详解.md) | Vulcanus/Fulgora/Gleba/Aquilo 的完整指南 |
 
 ## 版本
 
